@@ -1,19 +1,19 @@
 {
-    "name": "adeoweb/custom-entity-bundle",
+    "name": "inuartech/custom-entity-bundle",
     "type": "symfony-bundle",
-    "description": "Akeneo PIM Custom entity bundle",
+    "description": "Akeneo PIM Custom entity bundle for Akeneo 7",
     "keywords": ["pim", "akeneo", "ecommerce", "integration", "reference data"],
-    "homepage": "http://www.akeneo.com",
+    "homepage": "https://github.com/inuartech/CustomEntityBundle",
     "license": "OSL-3.0",
     "authors": [
         {
-            "name": "Akeneo",
-            "homepage": "http://www.akeneo.com"
+            "name": "Nei Santos",
+            "homepage": "https://www.inuartech.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=8.0.0",
+        "php": ">=8.1.0",
         "akeneo/pim-community-dev": "^7.0.0",
         "ext-pdo": "*"
     },
