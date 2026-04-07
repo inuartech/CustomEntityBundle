@@ -1,9 +1,9 @@
 {
-    "name": "inuartech/custom-entity-bundle",
+    "name": "inuar/custom-entity-bundle",
     "type": "symfony-bundle",
     "description": "Akeneo PIM Custom entity bundle for Akeneo 7",
     "keywords": ["pim", "akeneo", "ecommerce", "integration", "reference data"],
-    "homepage": "https://github.com/inuartech/CustomEntityBundle",
+    "homepage": "https://github.com/inuar/CustomEntityBundle",
     "license": "OSL-3.0",
     "authors": [
         {
